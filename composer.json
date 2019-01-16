@@ -1,0 +1,16 @@
+{
+    "name": "seehua/laravelboy",
+    "authors": [
+        {
+            "name": "seehua",
+            "email": "seehua@qq.com"
+        }
+    ],
+    "require": {},
+	"autoload": {
+		"psr-4": {
+			"Seehua\\Packagetest\\": "src/"
+		}
+	}
+
+}
